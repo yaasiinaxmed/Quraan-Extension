@@ -139,6 +139,11 @@ body {
     z-index: 100000;
 }
 
+.scrollTop:hover {
+    background: linear-gradient(to bottom, var(--primery-color), var(--secondary-color));
+    color: white;
+}
+
 .scrollTop.active {
     visibility: visible;
     opacity: 1;
