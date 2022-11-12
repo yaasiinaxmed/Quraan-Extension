@@ -104,8 +104,8 @@ async function getSurahs() {
                   play.addEventListener("click", togglePlay)
 
                    function changeAyah(index) {
-                    audio.src = AyahsAudios[index],
-                    ayah.innerHTML = AyahsText[index]
+                    audio.src = AyahsAudios[index];
+                    ayah.innerHTML = AyahsText[index];
 
                    }
 

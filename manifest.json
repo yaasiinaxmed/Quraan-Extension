@@ -1,13 +1,13 @@
 {
     "manifest_version": 3,
-    "name": "Quraan Kareem",
+    "name": "Quraan Player",
     "version": "1.0",
-    "description": "Quraan Extention Vip ",
+    "description": "Quraan player 114 surah text and audio ",
     "icons": {
         "128": "./img/icon_128.png"
     },
     "action": {
-        "default_title": "Quraan Kareem",
+        "default_title": "Quraan player",
         "default_popup": "popup.html",
         "default_icon": {
             "128" : "./img/icon_128.png"
